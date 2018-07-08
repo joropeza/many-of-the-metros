@@ -1,6 +1,6 @@
 {
   "name": "many-of-the-metros",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "many of the metro areas in the US in a nice neat hash",
   "main": "index.js",
   "scripts": {},
