@@ -1,0 +1,18 @@
+{
+  "name": "many-of-the-metros",
+  "version": "1.0.0",
+  "description": "many of the metro areas in the US in a nice neat hash",
+  "main": "index.js",
+  "scripts": {},
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joropeza/many-of-the-metros.git"
+  },
+  "author": "Jon Oropeza <joropeza@gmail.com> (http://jonoropeza.com/)",
+  "keywords": [
+    "world",
+    "geography",
+    "metro areas"
+  ]
+}
