@@ -18,8 +18,10 @@ Feel free to get a PR going to add to this collection.
   
 ## Usage ES6
 
+  ```
   const metros = import { metroAreas } from 'many-of-the-metros';
   console.log(metros);
+  ```
 
 ## Tests
 
